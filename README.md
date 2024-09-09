@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pratham Sharma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning  Reactjs
-- 💞️ I’m looking to work in company as a frontend developer
+- 🌱 I’m currently Working on Nextjs
+- 💞️ I’m looking to work in company as a Mern Stack developer
 - 📫 you can mail me on sharmapratham223@gmail.com
 
 <!---
